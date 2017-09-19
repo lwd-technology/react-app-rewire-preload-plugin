@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/icopp/react-app-rewire-preload-plugin.git"
+    "url": "git+https://github.com/lwd-technology/react-app-rewire-preload-plugin.git"
   },
   "keywords": ["preload", "webpack", "react-app-rewired"],
-  "author": "Ian Copp <copp.ian@gmail.com>",
+  "author": "Ian Copp <ian@wolflair.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/icopp/react-app-rewire-preload-plugin/issues"
+    "url": "https://github.com/lwd-technology/react-app-rewire-preload-plugin/issues"
   },
-  "homepage": "https://github.com/icopp/react-app-rewire-preload-plugin#readme",
+  "homepage": "https://github.com/lwd-technology/react-app-rewire-preload-plugin#readme",
   "dependencies": {
     "preload-webpack-plugin": "^2.0.0",
     "webpack": "^3.6.0"
