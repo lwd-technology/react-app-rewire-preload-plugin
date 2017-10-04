@@ -5,6 +5,6 @@ Add [`preload-webpack-plugin`](https://github.com/GoogleChrome/preload-webpack-p
 ```js
 const rewirePreloadPlugin = require('react-app-rewire-preload-plugin')
 
-// Add Typescript support
+// Add preloading support
 config = rewirePreloadPlugin(config, env)
 ```
